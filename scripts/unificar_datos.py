@@ -4,7 +4,7 @@ import os
 # 1. CONFIGURACIÓN DE RUTAS
 # Ajustado para que funcione desde la carpeta 'scripts' apuntando a 'data'
 DATA_DIR = "../data/"
-FILE_CLIMA = os.path.join(DATA_DIR, "Estacion metereologica.xlsx")
+FILE_CLIMA = os.path.join(DATA_DIR, "Estacion meteorologica.xlsx")
 FILE_INV = os.path.join(DATA_DIR, "Inversor.xlsx")
 FILE_OUTPUT = os.path.join(DATA_DIR, "ANALISIS_SOLAR_UNIFICADO.xlsx")
 
@@ -16,7 +16,7 @@ try:
     print("✅ Archivos cargados correctamente.")
 except Exception as e:
     print(f"❌ Error al cargar los archivos: {e}")
-    print("Asegúrate de que los archivos 'Estacion metereologica.xlsx' e 'Inversor.xlsx' estén en la carpeta 'data/'.")
+    print("Asegúrate de que los archivos 'Estacion meteorologica.xlsx' e 'Inversor.xlsx' estén en la carpeta 'data/'.")
     exit()
 
 # 3. LIMPIEZA DE COLUMNAS

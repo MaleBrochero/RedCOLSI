@@ -14,7 +14,7 @@ Para ratificar la necesidad de una infraestructura de monitoreo propia en la Ins
 ## 📡 Arquitectura IoT y Flujo de Datos
 El sistema emplea tecnología IoT para centralizar información proveniente de dos fuentes críticas en el terreno que se unifican mediante el procesamiento de datos:
 
-1.  **Variables Climatológicas (`data/Estacion metereologica.xlsx`)**: Captura de irradiancia, temperatura ambiente y humedad mediante sensores locales.
+1.  **Variables Climatológicas (`data/Estacion meteorologica.xlsx`)**: Captura de irradiancia, temperatura ambiente y humedad mediante sensores locales.
 2.  **Variables del Inversor (`data/Inversor.xlsx`)**: Monitoreo directo de la potencia generada ($pv\_power$) y estados del equipo para cuantificar la eficiencia real.
 
 ### El Proceso de Unificación (Paso a Paso)
@@ -34,6 +34,6 @@ Tras validar la necesidad de la infraestructura local, la siguiente etapa consis
 ---
 
 ## 🎓 Autoría y Créditos
-**Investigadora:** Maria Jose Leal Brochero  
+**Investigadora:** María José Leal Brochero  
 *Especialización en Ciencia de Datos - Institución Universitaria de Barranquilla*  
 Presentado ante la **Red Colombiana de Semilleros de Investigación (RedCOLSI)**.

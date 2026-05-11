@@ -12,7 +12,7 @@ fecha_inicio = datetime(2026, 4, 17)
 fecha_fin = datetime(2026, 5, 8)
 
 # Ruta de salida ajustada
-OUTPUT_FILE = "../data/Estacion metereologica.xlsx"
+OUTPUT_FILE = "../data/Estacion meteorologica.xlsx"
 
 datos = []
 fecha_actual = fecha_inicio
