@@ -24,6 +24,7 @@ Para garantizar que el Gateway (Raspberry Pi 4B) procese información sincroniza
 *   **`notebooks/`**: Análisis exploratorio y pruebas de bondad de ajuste que sustentan el rechazo de modelos lineales simples debido a la variabilidad local.
 *   **`scripts/`**: Algoritmos en Python para la descarga, limpieza y unificación de las tramas de datos del inversor y la estación.
 *   **`data/`**: Base de datos unificada que vincula el recurso solar con la respuesta eléctrica del sistema, junto con sus fuentes originales.
+*   **`documents/`**: Almacena la documentación formal, reportes y artículos relacionados con la investigación (.docx).
 
 ## 🚀 Futuras Fases
 Tras validar la necesidad de la infraestructura local, la siguiente etapa consiste en:
