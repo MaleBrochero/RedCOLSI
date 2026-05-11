@@ -33,6 +33,13 @@ Tras validar la necesidad de la infraestructura local, la siguiente etapa consis
 
 ---
 
+## ⚖️ Licencia
+Este proyecto, sus datos y resultados están bajo la licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**. 
+
+Se requiere atribución obligatoria de la autora (**María José Leal Brochero**) en cualquier uso académico, profesional o derivado de este trabajo.
+
+---
+
 ## 🎓 Autoría y Créditos
 **Investigadora:** María José Leal Brochero  
 *Especialización en Ciencia de Datos - Institución Universitaria de Barranquilla*  
